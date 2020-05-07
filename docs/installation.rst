@@ -30,7 +30,7 @@ Cloud-native!
 -------------
 
 Superset is designed to be highly available. It is
-"cloud-native" as it has been designed scale out in large,
+"cloud-native" as it has been designed to scale out in large,
 distributed environments, and works well inside containers.
 While you can easily
 test drive Superset on a modest setup or simply on your laptop,
